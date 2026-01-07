@@ -40,7 +40,25 @@
 
 ---
 
-## 三、安装与准备
+## 三、获取脚本
+
+### 方式一：直接下载（推荐）
+
+```bash
+curl -L -o nc-scan.sh https://raw.githubusercontent.com/Smart-Chou/nc-scan/main/nc-scan.sh
+chmod +x nc-scan.sh
+```
+
+或使用 wget：
+
+```bash
+wget -O nc-scan.sh https://raw.githubusercontent.com/Smart-Chou/nc-scan/main/nc-scan.sh
+chmod +x nc-scan.sh
+```
+
+---
+
+## 四、安装与准备
 
 ### 1. 获取脚本
 
